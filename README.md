@@ -44,7 +44,7 @@ Building modern web applications one project at a time.
 
 🚀 **Building:** Real-world web applications that solve practical problems.
 
-🌱 **Currently Learning**
+⭐️ **Currently Learning**
 
 - Laravel
 - REST APIs
