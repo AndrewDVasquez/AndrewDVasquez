@@ -79,6 +79,8 @@ A modern food ordering website built with Laravel.
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewDVasquez&layout=compact&theme=github_dark&hide_border=true"/>
 
+<img src="https://streak-stats.demolab.com?user=AndrewDVasquez&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
