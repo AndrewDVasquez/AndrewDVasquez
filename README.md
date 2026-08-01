@@ -141,7 +141,7 @@ A modern language learning platform built with **WordPress** and **MasterStudy L
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me 
 
 📧 andrewvasquez1991@hotmail.com
 
