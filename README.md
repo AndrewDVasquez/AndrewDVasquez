@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew Vasquez</h1>
 
 <h3 align="center">
-BSc Information Technology Student • Full-Stack Laravel Developer
+BSc Information Technology Student • Full-Stack Developer
 </h3>
 
 <p align="center">
