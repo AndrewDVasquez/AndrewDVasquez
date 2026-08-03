@@ -49,7 +49,7 @@ Building modern web applications one project at a time.
 - Laravel
 - REST APIs
 - React
-- Docker
+- Docker with Laravel Sail
 - Software Design Principles
 
 🎯 **2026 Goal**
@@ -93,7 +93,7 @@ Secure my first Software Developer role while continuing to build production-rea
 
 ## 🍽 ChefNV
 
-A modern food ordering platform built with Laravel.
+Built a Laravel application featuring authentication, blog management, responsive UI, and database-driven content using Blade, Eloquent, and MySQL.
 
 ### Features
 
@@ -131,7 +131,7 @@ A modern food ordering platform built with Laravel.
 
 ## 🌍 BonjourHola LMS
 
-A modern language learning platform built with WordPress & MasterStudy LMS.
+Customized an existing WordPress LMS Theme, integrated course functionality and tailored the user's experience to online language learning. 
 
 ### Highlights
 
