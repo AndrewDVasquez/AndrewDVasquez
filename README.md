@@ -54,7 +54,7 @@ Building modern web applications one project at a time.
 
 🎯 **2026 Goal**
 
-Secure my first Software Developer role while continuing to build production-ready applications.
+Secure my first Software Developer role while continuing to build production-ready applications while learning from other developers.
 
 ---
 
