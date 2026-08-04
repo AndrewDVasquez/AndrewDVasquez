@@ -168,15 +168,9 @@ Customized an existing WordPress LMS Theme, integrated course functionality and 
 
 # 📈 GitHub Statistics
 
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AndrewDVasquez&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewDVasquez&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
 
 <p align="center">
+
 
 <img src="https://streak-stats.demolab.com?user=AndrewDVasquez&theme=github-dark&hide_border=true"/>
 
