@@ -97,10 +97,10 @@ Built a Laravel application featuring authentication, blog management, responsiv
 
 ### Features
 
-- 🔐 Authentication
-- 🍴 Dynamic menus
+- 🔐 User Authentication & Authorization
+- 🛒 E-commerce functionality 
 - 📱 Responsive design
-- 📰 Blog
+- 🗄️ MySQL database with Eloquent ORM
 - ⚙️ Admin dashboard
 
 <br>
