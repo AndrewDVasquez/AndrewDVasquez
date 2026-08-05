@@ -38,7 +38,7 @@ Building modern web applications one project at a time.
 
 # 👨🏻‍💻 About Me
 
-💜 **Currently:** BSc Information Technology Student
+💜 **Currently:** Chef, BSc Information Technology Student.
 
 💻 **Passionate about:** Food 😂, Learning anything tech related, Laravel, PHP & Modern Web Development. 
 
